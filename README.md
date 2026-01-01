@@ -1,15 +1,15 @@
-###Gemini Clone 🤖✨
+### Gemini Clone 🤖✨
 
 A conversational AI interface inspired by Google Gemini, built with React and powered by the Gemini API.
 
-##Overview
+## Overview
 
 The Gemini Clone is a modern AI chat application that replicates the core experience of interacting with Google Gemini.
 Instead of a basic chatbot, it delivers a clean, responsive, and intuitive interface where users can ask questions, explore ideas, and get intelligent responses in real time.
 
 It feels like having a smart AI assistant right in your browser—fast, minimal, and focused on conversation.
 
-##Features
+## Features
 
 💬 Real-time AI chat experience
 
@@ -21,7 +21,7 @@ It feels like having a smart AI assistant right in your browser—fast, minimal,
 
 <br>
 
-##Tech Stack
+## Tech Stack
 
 React – for building the interactive UI
 
@@ -30,7 +30,7 @@ Gemini API – for AI-powered responses
 CSS  – for styling and layout
 
 <br>
-##Why This Project?
+## Why This Project?
 
 This project was built to:
 
