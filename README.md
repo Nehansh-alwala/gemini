@@ -16,7 +16,8 @@ It feels like having a smart AI assistant right in your browser—fast, minimal,
 ⚡ Smooth and responsive UI built with React
 🎨 Clean, minimal design inspired by Gemini
 
-![Screenshot of the app](./assests/geminiui.png)
+Screenshot of the app
+<img width="1920" height="912" alt="geminiui" src="https://github.com/user-attachments/assets/356471a3-1b2c-4222-b8aa-0689be6c2743" />
 
 ## Tech Stack
 
