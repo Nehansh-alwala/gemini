@@ -1,4 +1,4 @@
-### Gemini Clone 🤖✨
+# Gemini Clone 🤖✨
 
 A conversational AI interface inspired by Google Gemini, built with React and powered by the Gemini API.
 
@@ -16,7 +16,7 @@ It feels like having a smart AI assistant right in your browser—fast, minimal,
 ⚡ Smooth and responsive UI built with React
 🎨 Clean, minimal design inspired by Gemini
 
-<br>
+![Screenshot of the app](./assests/geminiui.png)
 
 ## Tech Stack
 
@@ -24,7 +24,6 @@ React – for building the interactive UI
 Gemini API – for AI-powered responses
 CSS  – for styling and layout
 
-<br>
 
 ## Why This Project?
 
