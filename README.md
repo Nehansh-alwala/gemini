@@ -12,11 +12,8 @@ It feels like having a smart AI assistant right in your browser—fast, minimal,
 ## Features
 
 💬 Real-time AI chat experience
-
 🧠 Powered by the Gemini API for intelligent responses
-
 ⚡ Smooth and responsive UI built with React
-
 🎨 Clean, minimal design inspired by Gemini
 
 <br>
@@ -24,20 +21,15 @@ It feels like having a smart AI assistant right in your browser—fast, minimal,
 ## Tech Stack
 
 React – for building the interactive UI
-
 Gemini API – for AI-powered responses
-
 CSS  – for styling and layout
 
 <br>
+
 ## Why This Project?
 
 This project was built to:
-
 Understand how to integrate large language models into real-world applications
-
 Practice building scalable, component-driven UIs with React
-
 Recreate a polished AI product experience from scratch
-
 Learn prompt handling, API integration, and conversational UX design
